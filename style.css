@@ -62,6 +62,9 @@ main{
     height:600px;
     
 }
+.profile-text-content{
+    margin-right: 350px ;
+}
 .profile-text-content > h1{
     color: #151414;
     font-size: 55px;
@@ -71,7 +74,7 @@ main{
 .profile-text-content > p{
     color: #444343;
     font-weight: 400;
-    line-height: 26px;
+    line-height: 35px;
     margin-top: 20px;
 }
 .profile-text-content > ul{
@@ -107,8 +110,8 @@ main{
     line-height: 30px;
  }
  .plan-item > img {
-    width: 92.958px;
-    height: 92.958px;
+    width: 60px;
+    height: 60px;
  }
  .plan-item > h2 {
     color: #151414;
